@@ -27,6 +27,10 @@ npm run dev
 npm run build
 ```
 
+## GitHub Pages
+
+Uygulama GitHub Pages ile yayınlanır. Repository ayarlarında **Pages > Build and deployment** bölümünden **GitHub Actions** seçili olmalıdır. Ardından `main` dalına yapılan push sonrası workflow otomatik olarak `dist` çıktısını yayınlar.
+
 ## Not
 
 Çoklu PDF indirme özelliği ZIP dosyası olarak çalışır. Her alt PDF, ayrı ve düzenli bir çıktı olacak şekilde oluşturulur.
