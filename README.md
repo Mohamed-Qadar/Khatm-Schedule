@@ -27,6 +27,10 @@ npm run dev
 npm run build
 ```
 
+## Canlı Site
+
+https://mohamed-qadar.github.io/Khatm-Schedule/
+
 ## Not
 
 Çoklu PDF indirme özelliği ZIP dosyası olarak çalışır. Her alt PDF, ayrı ve düzenli bir çıktı olacak şekilde oluşturulur.
